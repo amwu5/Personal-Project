@@ -5,7 +5,7 @@ using UnityEngine;
 public class MoveLeft : MonoBehaviour
 {
     private float speed = 17;
-
+    
     // Start is called before the first frame update
     void Start()
     {
