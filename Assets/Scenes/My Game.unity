@@ -154,6 +154,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   platformPrefab: {fileID: 7943847861942327924, guid: 083ed1b2ef292490fb2c390f5eb5187a, type: 3}
   powerupPrefab: {fileID: 326518877}
+  meteorPrefab: {fileID: 7321179478019678979, guid: b1eee2a5b2ed74830888960e35cac01b, type: 3}
 --- !u!4 &67014904
 Transform:
   m_ObjectHideFlags: 0

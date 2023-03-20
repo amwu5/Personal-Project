@@ -6,6 +6,7 @@ public class SpawnManager : MonoBehaviour
 {
     public GameObject platformPrefab;
     public GameObject powerupPrefab;
+    public GameObject meteorPrefab;
     private Vector3 spawnPos = new Vector3(20, -1, 1);
     private float startDelay = 2;
     private float repeatRate = 3;
@@ -26,4 +27,5 @@ public class SpawnManager : MonoBehaviour
     {
         Instantiate(platformPrefab, spawnPos, platformPrefab.transform.rotation);
     }
+
 }
