@@ -10,7 +10,7 @@ public class SpawnManager : MonoBehaviour
     private Vector3 spawnPos = new Vector3(20, -1, 1);
     private float startDelay = 2;
     private float repeatRate = 3;
-    private float spawnInterval = 10.0f;
+    private float spawnInterval = 6.0f;
     private float spawnLimitXLeft = -13.0f;
     private float spawnLimitXRight = 9.0f;
     private float spawnPosY = 5.0f;
